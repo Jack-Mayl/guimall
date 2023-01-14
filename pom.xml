@@ -16,5 +16,6 @@
         <module>gulimall-coupon</module>
         <module>gulimall-member</module>
         <module>gulimall-order</module>
+      <module>ruoyi</module>
     </modules>
 </project>
